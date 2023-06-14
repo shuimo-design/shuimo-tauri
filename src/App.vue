@@ -19,7 +19,6 @@ const info = ref('123312');
           <m-input v-model="info"></m-input>
           <m-button>确定</m-button>
         </div>
-
       </div>
     </m-rice-paper>
   </m-border>
